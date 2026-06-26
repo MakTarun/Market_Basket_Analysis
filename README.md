@@ -151,4 +151,4 @@ This project successfully applied the Apriori Algorithm to identify frequent ite
 
 **Tarun Singh**
 
-Computer Science Engineering Student | Python Developer | Data Analytics Enthusiast
+
